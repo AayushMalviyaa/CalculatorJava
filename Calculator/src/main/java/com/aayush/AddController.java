@@ -1,7 +1,7 @@
 package com.aayush;
 import javax.servlet.http.*;
 import javax.servlet.*;
-import javax.servlet.http;
+
 import org.springframework.stereotype.Controller;
 import org.springframework.web.servlet.*;
 
